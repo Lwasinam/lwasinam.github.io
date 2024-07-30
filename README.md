@@ -1,7 +1,7 @@
 
 <html><head><meta charset="UTF-8"><title>Voicera - These words were never spoken.</title></head>
 <body>
-<h1>Introduction 🐢 </h1>
+<h1>Introduction </h1>
 <p>Voicera is a smol text-to-speech program built for about 3 by me, Lwasinam Dilli :). Voicera is open source, with trained model weights
 available at <a href="https://github.com/Lwasinam/voicera">https://github.com/Lwasinam/voicera</a>. 
 It's not a SOTA model, just a smol project. I wanted to see if i could build something like this.
